@@ -1,0 +1,5 @@
+user_id;name;email;password;phone;address;role
+1;John Doe;john@example.com;hashed_password1;1234567890;123 Main St;user
+2;Jane Smith;jane@example.com;hashed_password2;0987654321;456 Elm St;user
+3;Alice Johnson;alice@example.com;hashed_password3;1112223333;789 Oak St;user
+4;Bob Williams;bob@example.com;hashed_password4;4445556666;101 Pine St;user

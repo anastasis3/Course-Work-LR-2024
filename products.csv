@@ -1,0 +1,5 @@
+name;category;price;manufacturer;description;availability_status
+Ibuprofen;Pain Relievers;5.99;HealthCorp;Pain reliever and anti-inflammatory;True
+Amoxicillin;Antibiotics;12.49;PharmaInc;Antibiotic for bacterial infections;True
+ColdEase;Cold and Flu;6.99;WellnessCo;Relieves cold symptoms;True
+Acetaminophen;Pain Relievers;4.99;MediCare;Pain reliever and fever reducer;False

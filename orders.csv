@@ -1,0 +1,5 @@
+user_id,order_date,delivery_address,payment_status,total_cost
+1,2025-01-14 10:30:00,"123 Main St, City",completed,18.48
+2,2025-01-15 14:00:00,"456 Elm St, City",pending,12.49
+3,2025-01-16 09:45:00,"789 Oak St, City",completed,22.97
+4,2025-01-17 12:20:00,"101 Pine St, City",pending,30.45
